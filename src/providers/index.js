@@ -1,0 +1,1 @@
+export { default as DetailMovieProvider } from './DetailMovieProvider'
